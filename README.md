@@ -15,7 +15,7 @@
 <code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 
-![EngincanV's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngincanV&theme=radical&hide_langs_below=1&show_icons=true)
-![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=EngincanV&show_icons=true&theme=radical)
+![EngincanV's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngincanV&hide_langs_below=1&show_icons=true)
+![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=EngincanV&show_icons=true)
 
 🌱 Learning all about **Open Source**
