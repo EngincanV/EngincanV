@@ -13,7 +13,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engincanv&layout=compact" alt="engincanv" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engincanv&show_icons=true" alt="engincanv" /></p>
+
 
 **👨🏻‍💻 Social Media:** 
 <p align="center" style="padding: 30px">
