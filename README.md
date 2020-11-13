@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engincanv" alt="engincanv" /> </p>
 
-**💼 Currently working as:** Junior Software Engineer at <a href="https://volosoft.com/" target="_blank"><b>Volosoft</b></a>
+**💼 Currently working as:** Junior Software Developer at <a href="https://volosoft.com/" target="_blank"><b>Volosoft</b></a>
 
 📝 I regulary write articles on [medium](https://medium.com/@enginveske)
 
