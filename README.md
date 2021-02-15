@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Engincan Veske</h1>
-<h3 align="center">Software Engineering Student</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engincanv" alt="engincanv" /> </p>
 
