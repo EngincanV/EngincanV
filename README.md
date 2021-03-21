@@ -5,7 +5,7 @@
 
 **💼 Currently working as:** Junior Software Developer at <a href="https://volosoft.com/" target="_blank"><b>Volosoft</b></a>
 
-📝 I regulary write articles on [medium](https://medium.com/@enginveske)
+📝 I regularly write articles on [medium](https://medium.com/@enginveske) (in Turkish).
 
 ⚡ Fun facts **Coffee over chai**, **Basketball over football**.
 
@@ -14,8 +14,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engincanv&layout=compact" alt="engincanv" /></p>
 
 
-
-**👨🏻‍💻 Social Media:** 
+<p align="center">
+<b>👨🏻‍💻 Social Media:</b>
+</p>
 <p align="center" style="padding: 30px">
 <a href="https://twitter.com/engincanveske" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="engincanveske" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/engincan-veske-b4a75b145" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="engincan-veske-b4a75b145" height="30" width="30" /></a>
