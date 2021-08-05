@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Engincan Veske</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engincanv" alt="engincanv" /> </p>
 
-**💼 Currently working as:** Junior Software Developer at <a href="https://volosoft.com/" target="_blank"><b>Volosoft</b></a>
+**💼 Currently working as:** Junior Software Engineer at <a href="https://volosoft.com/" target="_blank"><b>Volosoft</b></a>
 
 📝 I regularly write articles on [medium](https://medium.com/@enginveske) (in Turkish).
 
