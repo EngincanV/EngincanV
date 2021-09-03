@@ -24,3 +24,10 @@
 <a href="https://kaggle.com/enginveske" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="enginveske" height="30" width="30" /></a>
 <a href="https://medium.com/@enginveske" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@enginveske" height="30" width="30" /></a>
 </p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=EngincanV&row=1&column=6" alt="EngincanV" /></p>  
