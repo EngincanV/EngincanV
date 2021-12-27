@@ -5,7 +5,7 @@
 
 **💼 Currently working as:** Junior Software Engineer at <a href="https://volosoft.com/" target="_blank"><b>Volosoft</b></a>
 
-📝 I regularly write articles on [medium](https://medium.com/@enginveske) (in Turkish).
+📝 I regularly write articles on [medium](https://medium.com/@enginveske) (in Turkish), [dev.to](https://dev.to/engincanv) and [community.abp.io](https://community.abp.io/members/EngincanV) (in English).
 
 ⚡ Fun facts **Coffee over chai**, **Basketball over football**.
 
