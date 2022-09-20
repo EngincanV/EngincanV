@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engincanv" alt="engincanv" /> </p>
 
-**💼 Currently working as:** Software Engineer at <a href="https://volosoft.com/" target="_blank"><b>Volosoft</b></a>
+**💼 Currently working as:** Software Engineer at <a href="https://volosoft.com/" target="_blank"><b>Volosoft</b></a>.
 
 📝 I regularly write articles on [medium](https://medium.com/@enginveske) (in Turkish), [my personal website (blog)](https://engincanv.github.io/) and [community.abp.io](https://community.abp.io/members/EngincanV) (in English).
 
@@ -14,13 +14,17 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engincanv&layout=compact" alt="engincanv" /></p>
 
 
-<p align="center">
+<p>
 <b>👨🏻‍💻 Social Media:</b>
 </p>
-<p align="center" style="padding: 30px">
+<p style="padding: 30px">
 <a href="https://twitter.com/engincanveske" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="engincanveske" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/engincan-veske-b4a75b145" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="engincan-veske-b4a75b145" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/10477283" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10477283" height="30" width="30" /></a>
 <a href="https://kaggle.com/enginveske" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="enginveske" height="30" width="30" /></a>
 <a href="https://medium.com/@enginveske" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@enginveske" height="30" width="30" /></a>
+
+<a href="https://www.buymeacoffee.com/enginveske" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
+
+
