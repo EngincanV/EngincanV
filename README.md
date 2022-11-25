@@ -7,24 +7,35 @@
 
 📝 I regularly write articles on [medium](https://medium.com/@enginveske) (in Turkish), [my personal website (blog)](https://engincanv.github.io/) and [community.abp.io](https://community.abp.io/members/EngincanV) (in English).
 
-⚡ Fun facts **Coffee over chai**, **Basketball over football**.
+🎤 Also, I give public talks. You can see my previous talks down below:
 
-<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" alt="dotnet" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/></p>
+* [Community Talks 2022.6: ABP Framework v6.0 & OpenIddict](https://kommunity.com/volosoft/events/abp-community-talks-20226-abp-framework-v60-openiddict-15007e21) - watch the event from [here](https://www.youtube.com/watch?v=th3IugJGQDA).
+* [Community Talks 2022.9: .NET 7.0 & ABP 7.0](https://kommunity.com/volosoft/events/abp-community-20229-net-70-abp-70-f9e8fb72) - watch the event from [here](https://www.youtube.com/watch?v=ElhFMhLNyqY).
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engincanv&layout=compact" alt="engincanv" /></p>
-
-
-<p>
-<b>👨🏻‍💻 Social Media:</b>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngincanV&layout=compact&theme=tokyonight&count_private=true" alt="EngincanV" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=EngincanV&show_icons=true&theme=tokyonight&count_private=true" alt="EngincanV" height="160" />
 </p>
-<p style="padding: 30px">
+
+<p align="center">
+</p>
+
+<hr />
+
+<h3 align="center"> 👨🏻‍💻 Social Media: </h4>
+           
+<p align="center">
 <a href="https://twitter.com/engincanveske" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="engincanveske" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/engincan-veske-b4a75b145" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="engincan-veske-b4a75b145" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/10477283" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10477283" height="30" width="30" /></a>
-<a href="https://kaggle.com/enginveske" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="enginveske" height="30" width="30" /></a>
 <a href="https://medium.com/@enginveske" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@enginveske" height="30" width="30" /></a>
+<a href="https://engincanv.github.io/" target="blank"><img align="center" src="https://engincanv.github.io/assets/favicon.ico" alt="https://engincanv.github.io/" height="30" width="30" /></a>
+<a href="mailto:enginveske@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="enginveske@gmail.com" height="30" width="30" /></a>
 
-<a href="https://www.buymeacoffee.com/enginveske" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
 
+<hr />
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=EngincanV&theme=dark&border_radius=40&background=FFFFFF00&sideLabels=7F7F7FBE&dates=7F7F7FBE&sideNums=7F7F7F&currStreakNum=7F7F7F" />
+</p>
