@@ -15,10 +15,11 @@
 
 📝 I regularly write articles on [medium](https://medium.com/@enginveske) (in Turkish), [my personal website (blog)](https://engincanv.github.io/) and [community.abp.io](https://community.abp.io/members/EngincanV) (in English).
 
-🎤 Also, I give public talks. You can see my previous talks down below:
+🎤 Also, I give public talks. Here are my some recent talks:
 
-* [Community Talks 2022.6: ABP Framework v6.0 & OpenIddict](https://kommunity.com/volosoft/events/abp-community-talks-20226-abp-framework-v60-openiddict-15007e21) - watch the event from [here](https://www.youtube.com/watch?v=th3IugJGQDA).
-* [Community Talks 2022.9: .NET 7.0 & ABP 7.0](https://kommunity.com/volosoft/events/abp-community-20229-net-70-abp-70-f9e8fb72) - watch the event from [here](https://www.youtube.com/watch?v=ElhFMhLNyqY).
+* [Community Talks 2023.1: LeptonX Customization](https://www.youtube.com/watch?v=R9CqTtn6Wcg)
+* [Community Talks 2022.9: .NET 7.0 & ABP 7.0](https://www.youtube.com/watch?v=ElhFMhLNyqY)
+* [Community Talks 2022.6: ABP Framework v6.0 & OpenIddict](https://www.youtube.com/watch?v=th3IugJGQDA)
 
 </p>
 
