@@ -2,14 +2,17 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-<a href="https://twitter.com/engincanveske" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="engincanveske" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/engincan-veske-b4a75b145" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="engincan-veske-b4a75b145" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/10477283" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10477283" height="30" width="30" /></a>
-<a href="https://medium.com/@enginveske" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@enginveske" height="30" width="30" /></a>
-<a href="https://engincanv.github.io/" target="blank"><img align="center" src="https://engincanv.github.io/assets/favicon.ico" alt="https://engincanv.github.io/" height="30" width="30" /></a>
-<a href="mailto:enginveske@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="enginveske@gmail.com" height="30" width="30" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=engincanv" alt="engincanv" /> </p>
+  <p align="center">  
+    <a href="https://linkedin.com/in/engincan-veske-b4a75b145" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
+    <a href="https://twitter.com/EngincanVeske" target="blank"><img src="https://img.shields.io/twitter/follow/EngincanVeske?style=social" /></a>
+    <a href="https://stackoverflow.com/users/10477283" target="blank"><img src="https://img.shields.io/stackexchange/stackoverflow/r/10477283?label=stackoverflow" /></a>
+    <a href="https://medium.com/@enginveske" target="blank"><img src="https://img.shields.io/badge/500+-grey?logo=medium&label=medium" /></a>
+    <a href="https://engincanv.github.io/" target="blank"><img src="https://img.shields.io/badge/Personal%20Blog-grey?logo=e" /></a>
+    <a href="mailto:enginveske@gmail.com" target="blank"><img src="https://img.shields.io/badge/contact%20with%20me-white?logo=gmail" /></a>
+  </p>
+  
+  <hr />
 
 **💼 Currently working as:** Software Engineer at <a href="https://volosoft.com/" target="_blank"><b>Volosoft</b></a>.
 
