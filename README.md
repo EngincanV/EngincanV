@@ -32,9 +32,3 @@
 * [Sıfırdan Bire](https://open.spotify.com/show/4Iliz5SjCs6ayUglQ48Use): In this podcast channel, my 5 friends and I share our experiences in the field. Some of our previous talks topics: "Adaptation to new technology", "Internship", "Back to basics", and "Software quality assurance & test operations".
 
 </p>
-
-<hr />
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=EngincanV&theme=dark&border_radius=40&background=FFFFFF00&sideLabels=7F7F7FBE&dates=7F7F7FBE&sideNums=7F7F7F&currStreakNum=7F7F7F" />
-</p>
