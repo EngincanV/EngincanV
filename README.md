@@ -2,6 +2,12 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
+  <a href="https://user-badge.committers.top/turkey_private/EngincanV">
+    <img src="https://user-badge.committers.top/turkey_private/EngincanV.svg" />
+  </a>
+</p>
+
+<p align="center">
 
   <p align="center">  
     <a href="https://linkedin.com/in/engincan-veske-b4a75b145" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
