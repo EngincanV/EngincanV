@@ -24,7 +24,7 @@
 
 📝 I regularly write articles on [medium](https://medium.com/@enginveske) (in Turkish), [my personal website (blog)](https://engincanv.github.io/) and [community.abp.io](https://community.abp.io/members/EngincanV) (in English).
 
-🎤 I try to give public talks whenever possible. You can find my talks and their presentations at [https://github.com/EngincanV/presentations](https://github.com/EngincanV/presentations).
+🎤 I try to give public talks whenever possible. You can find my talks and their presentations from [EngincanV/presentations](https://github.com/EngincanV/presentations).
 
 🎙️ Also, I broadcast podcasts with my friends in Turkish:
 
