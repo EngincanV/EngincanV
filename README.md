@@ -24,14 +24,7 @@
 
 📝 I regularly write articles on [medium](https://medium.com/@enginveske) (in Turkish), [my personal website (blog)](https://engincanv.github.io/) and [community.abp.io](https://community.abp.io/members/EngincanV) (in English).
 
-🎤 I give public talks. Here are my some recent talks:
-
-* [Community Talks 2023.7: Build Your Own CMS with .NET](https://www.youtube.com/watch?v=S9__Hnu29tI)
-* [Community Talks 2023.1: LeptonX Customization](https://www.youtube.com/watch?v=R9CqTtn6Wcg)
-* [Community Talks 2022.9: .NET 7.0 & ABP 7.0](https://www.youtube.com/watch?v=ElhFMhLNyqY)
-* [Community Talks 2022.6: ABP Framework v6.0 & OpenIddict](https://www.youtube.com/watch?v=th3IugJGQDA)
-
-> For my other public talks see: [https://github.com/EngincanV/presentations](https://github.com/EngincanV/presentations).
+🎤 I try to give public talks whenever possible. You can find my talks and their presentations at [https://github.com/EngincanV/presentations](https://github.com/EngincanV/presentations).
 
 🎙️ Also, I broadcast podcasts with my friends in Turkish:
 
