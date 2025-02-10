@@ -16,9 +16,9 @@ I currently work at **Volosoft**, where I develop enterprise-level solutions usi
 
 * **Podcasts** – I co-host two Turkish podcasts with fellow developers:
 
-  * dotcode – Discussions on **software engineering and tech news**.
+  * [dotcode](https://open.spotify.com/show/2a4W8oDAGxqr4pDUnb2K4H) – Discussions on **software engineering and tech news**.
 
-  * Sıfırdan Bire – Conversations about **career growth, development practices, and real-world experiences**.
+  * [Sıfırdan Bire](https://open.spotify.com/show/4Iliz5SjCs6ayUglQ48Use) – Conversations about **career growth, development practices, and real-world experiences**.
 
 ## Why I Do It
 
