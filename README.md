@@ -10,7 +10,7 @@ I currently work at **Volosoft**, where I develop enterprise-level solutions usi
 
 * **Open Source & ABP Framework** – As an ABP Framework team member, I contribute to its development, write documentation, and help the community leverage its full potential.
 
-* **Technical Writing** – I share insights on **.NET, ABP, software architecture, and best practices** on various platforms.
+* **Technical Writing** – I share insights on **.NET, ABP, software architecture, and best practices** on [various platforms](https://engincanveske.substack.com/p/links).
 
 * **Public Speaking** – I enjoy speaking at tech events. [See all my talks & their presentations](https://github.com/EngincanV/presentations)
 
