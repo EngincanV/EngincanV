@@ -20,16 +20,13 @@ I currently work at **Volosoft**, where I develop enterprise-level solutions usi
 
   * [Sıfırdan Bire](https://open.spotify.com/show/4Iliz5SjCs6ayUglQ48Use) – Conversations about **career growth, development practices, and real-world experiences**.
 
-## Why I Do It
-
-Technology is constantly evolving, and I believe in **continuous learning and knowledge sharing**. Whether through writing, speaking, or open-source contributions, I aim to make complex topics easier to understand and help developers grow.
-
 ## Let’s Connect
 
 I’d love to hear from you! Whether you’re interested in **software development**, **ABP Framework**, **.NET**, or **just want to chat about tech**, feel free to reach out.
 
 * [GitHub](https://github.com/EngincanV) – Check out my open-source work.
+* [LinkedIn](https://www.linkedin.com/in/engincanv/), [Twitter](https://x.com/EngincanVeske) & [Bluesky](https://bsky.app/profile/engincanv.bsky.social) – Let’s connect!
 
-* [LinkedIn](https://www.linkedin.com/in/engincanv/) & [Twitter](https://x.com/EngincanVeske) – Let’s connect!
+> You can visit [my sessionize profile from here](https://sessionize.com/engincan-veske/) and contact with for talk invitations via [email](mailto:enginveske@gmail.com).
 
 Thanks for stopping by! 🚀
