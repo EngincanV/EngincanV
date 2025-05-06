@@ -12,6 +12,8 @@ I currently work at **Volosoft**, where I develop enterprise-level solutions usi
 
 * **Technical Writing** – I share insights on **.NET, ABP, software architecture, and best practices** on [various platforms](https://engincanveske.substack.com/p/links).
 
+* **Training** – I've **delivered over 100 hours of hands-on training** focused on the ABP Framework and broader software development topics. These sessions cover everything from **modular monoliths** to **microservices**, helping teams adopt modern architectural patterns with confidence and clarity.
+
 * **Public Speaking** – I enjoy speaking at tech events. [See all my talks & their presentations](https://github.com/EngincanV/presentations)
 
 * **Podcasts** – I co-host two Turkish podcasts with fellow developers:
