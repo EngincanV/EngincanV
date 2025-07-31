@@ -12,6 +12,8 @@ I currently work at **Volosoft**, where I develop enterprise-level solutions usi
 
 * **Technical Writing** – I share insights on **.NET, ABP, software architecture, and best practices** on [various platforms](https://engincanveske.substack.com/p/links).
 
+* **YouTube** – On my [YouTube channel](https://www.youtube.com/@engincanv), I create videos on .NET, AI, clean architecture, software development practices, and real-world use cases.
+
 * **Training** – I've **delivered over 100 hours of hands-on training** focused on the ABP Framework and broader software development topics. These sessions cover everything from **modular monoliths** to **microservices**, helping teams adopt modern architectural patterns with confidence and clarity.
 
 * **Public Speaking** – I enjoy speaking at tech events. [See all my talks & their presentations](https://github.com/EngincanV/presentations)
@@ -28,6 +30,7 @@ I’d love to hear from you! Whether you’re interested in **software developme
 
 * [GitHub](https://github.com/EngincanV) – Check out my open-source work.
 * [LinkedIn](https://www.linkedin.com/in/engincanv/), [Twitter](https://x.com/EngincanVeske) & [Bluesky](https://bsky.app/profile/engincanv.bsky.social) – Let’s connect!
+* [YouTube](https://www.youtube.com/@engincanv) - Subscribe to my channel and explore my videos on .NET, software architecture, distributed systems, and AI news featuring agents, LLMs, and emerging trends.
 
 > You can visit [my sessionize profile from here](https://sessionize.com/engincan-veske/) and contact with for talk invitations via [email](mailto:enginveske@gmail.com).
 
