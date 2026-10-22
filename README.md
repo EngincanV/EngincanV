@@ -23,10 +23,10 @@ On my [Substack](https://engincanveske.substack.com), read by 1,000+ developers,
 
 <!-- BLOG-POST-LIST:START -->
 - [What I Learned About AI in Production at LatentShift.ai Istanbul](https://engincanveske.substack.com/p/what-i-learned-about-ai-in-production)
-- [Trying Out Jev: a model that answers without generating text](https://engincanveske.substack.com/p/trying-out-jev-a-model-that-answers)
-- [Trying out Buzz: a workspace designed as a communication platform](https://engincanveske.substack.com/p/trying-out-buzz-a-workspace-designed)
-- [What Actually Makes You Senior When AI Writes the Code](https://engincanveske.substack.com/p/what-actually-makes-you-senior-when-ai-writes-the-code)
-- [I Tried Both Claude Design and Google Stitch. Here's the Honest Comparison.](https://engincanveske.substack.com/p/i-tried-both-claude-design-and-google)
+- [Trying Out Jev - a model that answers without generating text](https://engincanveske.substack.com/p/trying-out-jev-a-model-that-answers)
+- [Trying out Buzz - a workspace designed as communication platform](https://engincanveske.substack.com/p/trying-out-buzz-a-workspace-designed)
+- [We Built the Workspace Our AI Agents Actually Needed, Then Ran Our Own Company On It](https://engincanveske.substack.com/p/volobox-ai-agent-workspace)
+- [This Week in AI #6 - July 23 - 29, 2026](https://engincanveske.substack.com/p/this-week-in-ai-6-july-23-29-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎤 Talks, training & podcasts
