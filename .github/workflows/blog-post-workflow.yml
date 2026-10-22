@@ -17,3 +17,5 @@ jobs:
         with:
           feed_list: "https://engincanveske.substack.com/feed"
           max_post_count: 5
+          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
+          accept_header: "application/rss+xml, application/xml, text/xml"
